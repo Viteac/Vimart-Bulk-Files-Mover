@@ -3,7 +3,7 @@ Tool to move bulk files
 
 # Options
 - Move all files in directory
-- Move all files an directories
+- Move all files and directories
 - Choose extension of files to move
 
 # Tested
