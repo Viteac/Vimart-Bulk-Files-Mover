@@ -7,6 +7,6 @@ Tool to move bulk files
 - Choose extension of files to move
 
 # Tested
-Testend on Linux and Windows.
+Tested on Linux and Windows.
 
 
